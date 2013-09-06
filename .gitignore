@@ -66,7 +66,7 @@ tests/test_linger
 tests/test_security_null
 tests/test_security_null.opp
 tests/test_security_plain
-src/platform.hpp*
+src/platform.hpp.in
 src/stamp-h1
 perf/local_lat
 perf/local_thr
