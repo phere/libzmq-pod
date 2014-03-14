@@ -91,7 +91,7 @@ tests/test_stream_disconnect
 tests/test_proxy_chain
 tests/test*.log
 tests/test*.trs
-src/platform.hpp*
+src/platform.hpp.in
 src/stamp-h1
 perf/local_lat
 perf/local_thr
